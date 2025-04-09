@@ -5133,11 +5133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ITI\\Project\\ITI-Graduation-Project-backend-\\ITIGraduationProject BackEnd\\ITIGraduationProject\\ITIGraduationProject.csproj",
+      "projectUniqueName": "D:\\ITI\\Project\\New verison\\testGP\\ITIGraduationProject BackEnd\\testGP\\ITIGraduationProject\\ITIGraduationProject.csproj",
       "projectName": "ITIGraduationProject",
-      "projectPath": "D:\\ITI\\Project\\ITI-Graduation-Project-backend-\\ITIGraduationProject BackEnd\\ITIGraduationProject\\ITIGraduationProject.csproj",
+      "projectPath": "D:\\ITI\\Project\\New verison\\testGP\\ITIGraduationProject BackEnd\\testGP\\ITIGraduationProject\\ITIGraduationProject.csproj",
       "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-      "outputPath": "D:\\ITI\\Project\\ITI-Graduation-Project-backend-\\ITIGraduationProject BackEnd\\ITIGraduationProject\\obj\\",
+      "outputPath": "D:\\ITI\\Project\\New verison\\testGP\\ITIGraduationProject BackEnd\\testGP\\ITIGraduationProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5158,8 +5158,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ITI\\Project\\ITI-Graduation-Project-backend-\\ITIGraduationProject BackEnd\\GraduationProject.BL\\ITIGraduationProject.BL.csproj": {
-              "projectPath": "D:\\ITI\\Project\\ITI-Graduation-Project-backend-\\ITIGraduationProject BackEnd\\GraduationProject.BL\\ITIGraduationProject.BL.csproj"
+            "D:\\ITI\\Project\\New verison\\testGP\\ITIGraduationProject BackEnd\\testGP\\GraduationProject.BL\\ITIGraduationProject.BL.csproj": {
+              "projectPath": "D:\\ITI\\Project\\New verison\\testGP\\ITIGraduationProject BackEnd\\testGP\\GraduationProject.BL\\ITIGraduationProject.BL.csproj"
             }
           }
         }

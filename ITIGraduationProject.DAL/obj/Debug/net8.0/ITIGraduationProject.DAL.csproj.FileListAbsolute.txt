@@ -13,3 +13,18 @@ D:\ITI\Project\ITI-Graduation-Project-backend-\ITIGraduationProject BackEnd\ITIG
 D:\ITI\Project\ITI-Graduation-Project-backend-\ITIGraduationProject BackEnd\ITIGraduationProject.DAL\obj\Debug\net8.0\ITIGraduationProject.DAL.pdb
 D:\ITI\Project\ITI-Graduation-Project-backend-\ITIGraduationProject BackEnd\ITIGraduationProject.DAL\obj\Debug\net8.0\ITIGraduationProject.DAL.genruntimeconfig.cache
 D:\ITI\Project\ITI-Graduation-Project-backend-\ITIGraduationProject BackEnd\ITIGraduationProject.DAL\obj\Debug\net8.0\ref\ITIGraduationProject.DAL.dll
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\bin\Debug\net8.0\ITIGraduationProject.DAL.deps.json
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\bin\Debug\net8.0\ITIGraduationProject.DAL.runtimeconfig.json
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\bin\Debug\net8.0\ITIGraduationProject.DAL.dll
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\bin\Debug\net8.0\ITIGraduationProject.DAL.pdb
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\obj\Debug\net8.0\ITIGraduationProject.DAL.csproj.AssemblyReference.cache
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\obj\Debug\net8.0\ITIGraduationProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\obj\Debug\net8.0\ITIGraduationProject.DAL.AssemblyInfoInputs.cache
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\obj\Debug\net8.0\ITIGraduationProject.DAL.AssemblyInfo.cs
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\obj\Debug\net8.0\ITIGraduationProject.DAL.csproj.CoreCompileInputs.cache
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\obj\Debug\net8.0\ITIGraduationProject.DAL.sourcelink.json
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\obj\Debug\net8.0\ITIGraduationProject.DAL.dll
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\obj\Debug\net8.0\refint\ITIGraduationProject.DAL.dll
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\obj\Debug\net8.0\ITIGraduationProject.DAL.pdb
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\obj\Debug\net8.0\ITIGraduationProject.DAL.genruntimeconfig.cache
+D:\ITI\Project\New verison\testGP\ITIGraduationProject BackEnd\testGP\ITIGraduationProject.DAL\obj\Debug\net8.0\ref\ITIGraduationProject.DAL.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GU+/LeUPx7Q=",
+  "dgSpecHash": "/hvN/EsLsno=",
   "success": true,
-  "projectFilePath": "D:\\ITI\\Project\\ITI-Graduation-Project-backend-\\ITIGraduationProject BackEnd\\ITIGraduationProject\\ITIGraduationProject.csproj",
+  "projectFilePath": "D:\\ITI\\Project\\New verison\\testGP\\ITIGraduationProject BackEnd\\testGP\\ITIGraduationProject\\ITIGraduationProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Max\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Max\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
